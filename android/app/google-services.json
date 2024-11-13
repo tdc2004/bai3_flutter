@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "385014392507",
+    "project_id": "bai3-flutter-89770",
+    "storage_bucket": "bai3-flutter-89770.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385014392507:android:cfb5fb8ee57e5a87cd2b9e",
+        "android_client_info": {
+          "package_name": "com.example.bai3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMufGm636KsfVfzSAKv0ooeZasjM_5Phc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
